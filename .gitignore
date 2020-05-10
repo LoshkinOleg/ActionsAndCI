@@ -2,3 +2,6 @@
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
+
+[Bb]uild/
+[Bb]uilds/
